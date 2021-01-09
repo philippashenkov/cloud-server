@@ -1,0 +1,6 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://PhilGreen:nopass666@cluster0.3wvxm.mongodb.net/Cluster0?retryWrites=true&w=majority",
+  "secretKey": "secret-key",
+  "filePath": "F:\\Work\\cloud-app\\server\\files"
+}
